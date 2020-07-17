@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">A passionate American full-stack programmer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=destaq" alt="destaq" /> </p>
 
 - 🔭  I’m currently working on: [language-statistics](https://github.com/Destaq/language-statistics)
 
