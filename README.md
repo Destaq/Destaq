@@ -17,7 +17,6 @@
 
 - ⚡  Fun fact: **I'm learning Mandarin Chinese**
 <p align="center">
-  <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-512.png" alt="css3" width="50" height="50"/>
   
   <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/html5-256.png" alt="html5" width="50" height="50"/>
   
