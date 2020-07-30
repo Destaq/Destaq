@@ -7,7 +7,7 @@
 
 - 🤔  I’m looking for help with: [low-face-mode](https://github.com/Destaq/low-face-mode)
 
-- 👨‍💻  All of my projects are available at: [https://github.com/Destaq](https://github.com/Destaq)
+- 👨‍💻  All of my projects are available at: [https://github.com/Destaq?tab=repositories](https://github.com/Destaq?tab=repositories)
 
 - 📝  I regulary write articles on: [https://simonilincev.com/blog/](https://simonilincev.com/blog/)
 
