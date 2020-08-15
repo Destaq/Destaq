@@ -11,17 +11,17 @@
 
 - 📝  I regulary write articles on: [https://simonilincev.com/blog/](https://simonilincev.com/blog/)
 
-- 💬  Ask me about: **Python, Java, and Plotly**
+- 💬  Ask me about: **Python, JavaScript, and Flask**
 
 - 📫  How to reach me: **simon@simonilincev.com**
 
 - ⚡  Fun fact: **I'm learning Mandarin Chinese**
 <p align="center">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png" alt="python" width="50" height="50"/>
+  
   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="50" height="50"/> 
   
   <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/html5-256.png" alt="html5" width="50" height="50"/>
-  
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png" alt="python" width="50" height="50"/>
   
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png" alt="java" width="50" height="50"/>
   </p>
