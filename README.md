@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">A passionate American full-stack developer</h3>
 
-- 🔭  I’m currently working on: [life-calendar](https://github.com/Destaq/life-calendar)
+- 🔭  I’m currently working on: *nothing* - [send me an idea](mailto:simon@simonilincev.com)!
 
 - 👯  I’m looking to collaborate on: [chinese-sentence-miner](https://github.com/Destaq/chinese-sentence-miner)
 
-- 🤔  I’m looking for help with: [low-face-mode](https://github.com/Destaq/low-face-mode)
+- 🤔  I’m looking for help with: [language-statistics](https://github.com/Destaq/language-statistics)
 
 - 👨‍💻  All of my projects are available at: [https://github.com/Destaq?tab=repositories](https://github.com/Destaq?tab=repositories)
 
 - 📝  I regulary write articles on: [https://simonilincev.com/blog/](https://simonilincev.com/blog/)
 
-- 💬  Ask me about: **Python, Java, and JavaScript**
+- 💬  Ask me about: **Python, JavaScript (Vue), and TailwindCSS**
 
 - 📫  How to reach me: **simon@simonilincev.com**
 
