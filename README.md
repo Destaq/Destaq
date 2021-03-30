@@ -7,7 +7,7 @@
 
 - 🤔  I’m looking for help with: [language-statistics](https://github.com/Destaq/language-statistics)
 
-- 👨‍💻  All of my projects are available at: [https://github.com/Destaq?tab=repositories](https://github.com/Destaq?tab=repositories)
+- 👨‍💻  All of my projects are available on: GitHub [here](https://github.com/Destaq?tab=repositories)
 
 - 📝  I regulary write articles on: [https://simonilincev.com/blog/](https://simonilincev.com/blog/)
 
