@@ -1,36 +1,39 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">A passionate American full-stack developer</h3>
 
-- 🔭  I’m currently working on: *nothing* - [send me an idea](mailto:simon@simonilincev.com)!
+## About
 
-- 👯  I’m looking to collaborate on: [chinese-sentence-miner](https://github.com/Destaq/chinese-sentence-miner)
+Currently in my junior year of high school, planning to study software engineering in the US. I most often code up [productivity](https://github.com/Destaq/life-calendar) and [analysis](https://github.com/Destaq/language-statistics) tools, but nearly any unique project idea is fair game!
 
-- 🤔  I’m looking for help with: [language-statistics](https://github.com/Destaq/language-statistics)
+- 🔭  I’m currently working on a reading community for language learners
+- 📝  I  write articles on [my blog](https://simonilincev.com/blog/)
+- 💬  Ask me about **Python, Heroku, and Javascript**
+- 📫  Reach me at `simon (at) simonilincev (dom) com`
+- ⚡  Fun fact: **I'm conversational in Mandarin Chinese**
 
-- 👨‍💻  All of my projects are available on: GitHub [here](https://github.com/Destaq?tab=repositories)
-
-- 📝  I regulary write articles on: [https://simonilincev.com/blog/](https://simonilincev.com/blog/)
-
-- 💬  Ask me about: **Python, JavaScript (Vue), and TailwindCSS**
-
-- 📫  How to reach me: **simon@simonilincev.com**
-
-- ⚡  Fun fact: **I'm learning Mandarin Chinese**
-<p align="center">
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png" alt="python" width="50" height="50"/>
-  
-  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="50" height="50"/> 
-  
-  <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/html5-256.png" alt="html5" width="50" height="50"/>
-  
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png" alt="java" width="50" height="50"/>
-  
-  <img src="https://cdn.iconscout.com/icon/free/png-512/vue-282497.png" alt="vue" width="50" height="50" />
-</p>
+## Tech Tools & Stats
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=destaq&show_icons=true" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=destaq&langs_count=10&layout=compact" /> </p>
 
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=destaq&theme=vue&currStreakNum=3180EC&ring=3180EC&fire=3180EC&sideNums=3180EC" /> </p>
+  
+## Social
+If you want to collaborate, have a project idea, or just feel like reaching out, my email address is **simon** (at) **simonilincev** (dot) **com**.
 <p align="center">
 <a href="https://stackoverflow.com/destaq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="destaq" height="20" width="20" /></a>
+  &nbsp;
+<a href="mailto:simon@simonilincev.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Destaq" height="20" width="20" /></a>
+  &nbsp;
+<a href="https://github.com/Destaq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Destaq" height="20" width="20" /></a>
 </p>
