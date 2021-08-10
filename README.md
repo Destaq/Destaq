@@ -26,7 +26,7 @@ Currently in my junior year of high school, planning to study software engineeri
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=destaq&show_icons=true" /> </p>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=destaq&theme=vue&currStreakNum=3180EC&ring=3180EC&fire=3180EC&sideNums=3180EC" /> </p>
+<!-- <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=destaq&theme=vue&currStreakNum=3180EC&ring=3180EC&fire=3180EC&sideNums=3180EC" /> </p> -->
   
 ## Social
 If you want to collaborate, have a project idea, or just feel like reaching out, my email address is **simon** (at) **simonilincev** (dot) **com**.
