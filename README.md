@@ -33,7 +33,7 @@ I'm a high school junior planning to major in software engineering in the US. I 
 ## Social
 If you want to collaborate, have a project idea, or just feel like reaching out, my email address is **simon** (at) **simonilincev** (dot) **com**.
 <p align="center">
-<a href="https://stackoverflow.com/destaq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="destaq" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/12876940/destaq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="destaq" height="20" width="20" /></a>
   &nbsp;
 <a href="mailto:simon@simonilincev.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Destaq" height="20" width="20" /></a>
   &nbsp;
