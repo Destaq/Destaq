@@ -3,13 +3,13 @@
 
 ## About
 
-Currently in my junior year of high school, planning to study software engineering in the US. I most often code up [productivity](https://github.com/Destaq/life-calendar) and [analysis](https://github.com/Destaq/language-statistics) tools, but nearly any unique project idea is fair game!
+I'm a high school junior planning to major in software engineering in the US. I most often code up [productivity](https://github.com/Destaq/life-calendar) and [analysis](https://github.com/Destaq/language-statistics) tools, but nearly any unique project idea is fair game!
 
-- 🔭  I’m currently working on a reading community for language learners
+- 🔭  I’m currently working on a [dashboard to track language-learning](https://github.com/Destaq/language-learning-dashboard)
 - 📝  I  write articles on [my blog](https://simonilincev.com/blog/)
-- 💬  Ask me about **Python, Heroku, and Javascript**
+- 💬  Ask me about **Python, Vue, and Tailwind**
 - 📫  Reach me at `simon (at) simonilincev (dom) com`
-- ⚡  Fun fact: **I'm conversational in Mandarin Chinese**
+- ⚡  Fun fact: **I only read novels in Chinese**
 
 ## Tech Tools & Stats
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
