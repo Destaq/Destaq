@@ -3,7 +3,7 @@
 
 ## About
 
-I'm a high school junior planning to major in software engineering in the US. I most often code up [productivity](https://github.com/Destaq/life-calendar) and [analysis](https://github.com/Destaq/language-statistics) tools, but nearly any unique project idea is fair game!
+I'm a high school junior planning to major in computer science in the US. I most often code up [productivity](https://github.com/Destaq/life-calendar) and [analysis](https://github.com/Destaq/language-statistics) tools, but nearly any unique project idea is fair game!
 
 - 🔭  I’m currently working on a [dashboard](https://github.com/Destaq/language-learning-dashboard) to track language-learning
 - 📝  I  write articles on [my blog](https://simonilincev.com/blog/)
