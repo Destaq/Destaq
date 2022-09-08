@@ -36,9 +36,27 @@ I'm a high school senior and passionate developer planning to major in computer 
 
 If you want to collaborate, have a project idea, or just feel like reaching out, my email address is **simon** (at) **simonilincev** (dot) **com**.
 <p align="center">
-<a href="https://stackoverflow.com/users/12876940/destaq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="destaq" height="20" width="20" /></a>
-  &nbsp;
-<a href="mailto:simon@simonilincev.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Destaq" height="20" width="20" /></a>
-  &nbsp;
-<a href="https://github.com/Destaq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Destaq" height="20" width="20" /></a>
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset=
+              "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="20" width="20">
+      <source media="(prefers-color-scheme: dark)" srcset=
+              "https://raw.githubusercontent.com/Destaq/destaq.github.io/master/assets/images/other/stackoverflow-light.png" height="20" width="20">
+      <img alt="Shows a black logo in light color mode and a white one in dark color mode.">
+    </picture>
+    &nbsp;
+  <picture>
+        <source media="(prefers-color-scheme: light)" srcset=
+              "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="20" width="20">
+      <source media="(prefers-color-scheme: dark)" srcset=
+              "https://raw.githubusercontent.com/Destaq/destaq.github.io/master/assets/images/other/gmail-light.png" height="20" width="20">
+      <img alt="Shows a black logo in light color mode and a white one in dark color mode.">
+    </picture>
+    &nbsp;
+  <picture>
+          <source media="(prefers-color-scheme: light)" srcset=
+              "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="20">
+      <source media="(prefers-color-scheme: dark)" srcset=
+              "https://raw.githubusercontent.com/Destaq/destaq.github.io/master/assets/images/other/github-light.png" height="20" width="20">
+      <img alt="Shows a black logo in light color mode and a white one in dark color mode.">
+    </picture>
 </p>
