@@ -56,12 +56,12 @@ If you want to collaborate, have a project idea, or just feel like reaching out,
     </picture>
     </a>
     &nbsp;
-    <a href="https://www.github.com/Destaq">
+    <a href="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg">
   <picture>
           <source media="(prefers-color-scheme: light)" srcset=
-              "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="20">
+              "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" height="20" width="20">
       <source media="(prefers-color-scheme: dark)" srcset=
-              "https://raw.githubusercontent.com/Destaq/destaq.github.io/master/assets/images/other/github-light.png" height="20" width="20">
+              "https://user-images.githubusercontent.com/61620873/234853343-227dc04a-b43c-41e6-af7a-89a498539393.png" height="20" width="20">
       <img alt="Shows a black logo in light color mode and a white one in dark color mode.">
     </picture>
     </a>
