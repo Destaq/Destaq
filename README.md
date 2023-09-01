@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Simon
 
-I'm a high school senior and passionate developer planning to major in computer science in the US. I most often code up [productivity](https://github.com/Destaq/life-calendar) and [analysis](https://github.com/Destaq/language-statistics) tools, but nearly any unique project idea is fair game!
+I'm a passionate full-stack developer majoring in computer science at Cornell. I most often code up [productivity](https://github.com/Destaq/life-calendar) and [analysis](https://github.com/Destaq/language-statistics) tools, but nearly any unique project idea is fair game!
 
 - 🔭  I’m currently working on a [dashboard](https://github.com/Destaq/language-learning-dashboard) to log language-learning
 - 📝  I write articles on [my blog](https://simonilincev.com/blog/)
