@@ -2,9 +2,9 @@
 
 I'm a passionate full-stack developer majoring in computer science at Cornell. I most often code up [productivity](https://github.com/Destaq/life-calendar) and [analysis](https://github.com/Destaq/language-statistics) tools, but nearly any unique project idea is fair game!
 
-- 🔭  I’m currently working on a [dashboard](https://github.com/Destaq/language-learning-dashboard) to log language-learning
+- 🔭  I’m currently working on a [social tracking platform](https://lingotrack.com) for language learners
 - 📝  I write articles on [my blog](https://simonilincev.com/blog/)
-- 💬  Ask me about **Python, Vue,** and **Go**
+- 💬  Ask me about **Svelte, Python,** and **Go**
 - ⚡  Fun fact: **I only read novels in Chinese**
 
 ## Tech Tools & Stats
