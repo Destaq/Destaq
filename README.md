@@ -2,7 +2,7 @@
 
 I'm a passionate full-stack developer majoring in computer science at Cornell. I most often code up [tracking](https://lingotrack.com), [productivity](https://github.com/Destaq/life-calendar), and [analysis](https://github.com/Destaq/language-statistics) tools, but nearly any unique project idea is fair game!
 
-- 🔭  I’m currently working on a [cold emailing tool](https://coldcraft.ai) for students
+- 🔭  I’m currently working on [an AI-powered site localization tool](https://locadapt.com) for small-to-medium businesses
 - 📝  I write articles on [my blog](https://simonilincev.com/blog/)
 - 💬  Ask me about **Svelte, Python,** and **Go**
 - ⚡  Fun fact: **I only read novels in Chinese**
